@@ -31,7 +31,7 @@ Once the container is up and running, the APIs will be accessible at `http://loc
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone <repository-url>
+    download the code from drive
     cd MyCucumberProject
     ```
 
